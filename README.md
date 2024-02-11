@@ -1,6 +1,6 @@
 # Flight-Finder
 
-App uses amadeus API to find flights and create a table, and uses google clouds "Gemini Pro" Generative AI to create a list of things to do in the destination location as well as sort the information from amadeus into a table
+App uses amadeus API to find flights and create a table, and uses google clouds "Gemini Pro" Generative AI to create a list of things to do in the destination location as well as sort the relevant information from amadeus into a table
 
 ![Screenshot 2024-02-11 115951](https://github.com/hetzoo/Flight-Finder/assets/75696386/8f6e7683-c9e1-4831-b9f8-a00266923f90)
 
